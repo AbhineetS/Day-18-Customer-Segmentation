@@ -1,0 +1,3 @@
+- Try DBSCAN
+- Add customer personas
+- Add 3D PCA plot

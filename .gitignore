@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Large data / notebooks
+ml-latest-small/
+*.h5
+*.csv
+
+# IDE
+.vscode/
+# macOS junk
+.DS_Store
+# Python / virtualenv / caches
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+# dataset / large files
+ml-latest-small/
+*.csv
+# IDE / editor
+.vscode/
+.idea/
+# personal Documents / big folders (adjust if you DO want them in repo)
+Documents/
+GoalPlannerGUI/
+resources/
