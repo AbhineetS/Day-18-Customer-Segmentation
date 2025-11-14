@@ -1,0 +1,4 @@
+- Try DBSCAN
+- Try hierarchical clustering
+- Build web dashboard
+- Add automated report generator
