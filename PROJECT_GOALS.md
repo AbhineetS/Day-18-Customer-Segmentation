@@ -1,0 +1,3 @@
+- Build customer segmentation pipeline
+- Visualize clusters
+- Generate insights
